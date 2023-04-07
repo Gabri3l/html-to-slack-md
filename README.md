@@ -1,6 +1,6 @@
 # html-to-slack-md
 
-Convert html to [slack markdown](https://slack.zendesk.com/hc/en-us/articles/202288908-Formatting-your-messages).
+Convert html to [slack markdown](https://slack.zendesk.com/hc/en-us/articles/202288908-Formatting-your-messages). This is the same as [slackify-html](https://github.com/mrq-cz/slackify-html) but uses `cheerio` instead of `htmlparser`.
 
 Example usage:
 
